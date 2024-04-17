@@ -1,3 +1,4 @@
+/*
 import React, { Component } from 'react';
 import '../CSS/login.css';
 import notesCover from '../Images/back.jpg';
@@ -105,10 +106,10 @@ class Login extends Component {
 }
 
 export default Login;
+*/
 
 
-
-/* import React, { Component } from 'react';
+import React, { Component } from 'react';
 import { useNavigate } from 'react-router-dom';
 import '../CSS/login.css';
 import notesCover from '../Images/back.jpg';
@@ -214,4 +215,4 @@ class Login extends Component {
   }
 }
 
-export default Login; */
+export default Login;
